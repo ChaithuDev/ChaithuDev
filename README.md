@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Advanced JavaScript frameworks like React and Angular
 - 💞️ I’m looking to collaborate on Open-source software projects
 - 📫 How to reach me  Email: snehachaitanyareddy@gmail.com
-                       LinkedIn: linkedin.com/in/snehachaitanyareddy/
+                       LinkedIn: linkedin.com/in/snehachaitanyareddyakkala/
 - 😄 Pronouns: Darling!
 - ⚡ Fun fact: I’ve created a smart mirror that gives me compliments every morning!
 
