@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chaithanya</h1>
 <h3 align="center">A passionate frontend developer from Pan India</h3>
+<img width="400" align="right" src="https://paradox.ba/paradox/wp-content/uploads/2019/10/4paradox-animation-min.gif">
 
 - 🔭 I’m currently working on **developing a mobile-responsive portfolio website to showcase my projects, using HTML, CSS, and JavaScript.**
 
